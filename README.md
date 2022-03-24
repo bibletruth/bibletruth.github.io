@@ -1,192 +1,77 @@
-# Dillinger
-## _The Last Markdown Editor, Ever_
+# Неопровержимые доказательства
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+Источники, подтверждающие историчность Христа:
+- 27 книг Нового Завета
+- Отцы Церкви: Поликарп, Евсебий, Ириней, Иустин Мученик, Игнатий, Ориген и другие.
+- другие свидетельства:
+- Корнелий Тацит (род. 52-54г.). В 112 году он был губернатором Азии. Описывая правление Нерона, пишет: *"Но ни все оправдания, какие можно получить от людей, ни все богатства, которые этот правитель мог расточить, ни все жертвы, какие приносил он богам, не могли снять с Нерона тягостное обвинение в том, что он, как считали, приказал устроить пожар Рима. Чтобы подавить эти слухи, он обвинил в поджоге и покарал самыми изощрёнными пытками людей, которых обычно называли христианами и ненавидели за их чудовищные преступления. Христос, по имени которого они так назывались, был казнён Понтием Пилатом, прокуратором Иудеи во время правления Тиберия: однако пагубный сей предрассудок, исчезнув на время, вспыхнул вновь, причём не только в Иудее, где возникло это зло, но также и в Риме"* **[Анналы XV.44](https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D0%B1%D0%BB%D0%B8%D0%B9_%D0%9A%D0%BE%D1%80%D0%BD%D0%B5%D0%BB%D0%B8%D0%B9_%D0%A2%D0%B0%D1%86%D0%B8%D1%82#%D0%A2%D0%B0%D1%86%D0%B8%D1%82_%D0%BE_%D1%85%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B5 "Тацит о христианах; статья в Википедии")**  
+Христиане также упоминаются Тацитом в **"Истории"**, где говорится о сожжении Иерусалимского храма в 70 г. (этот отрывок сохранился у Сульпиция Севера (**«Хроники» II, 30.6**))
+- Лукиан из Самосаты.
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
+***
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
+# Факты, говорящие в пользу истинности Библии
 
-## Features
+## Книга Бытия говорит, что родословия Израиля начинается с Месопотамии
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+Археологические находки подтверждают этот факт. Олбрайт пишет, что «нельзя всерьёз сомневаться в том, что еврейские предания верно прослеживают родословную патриархов прямо до долины Балих в северо-западной Месопотамии». Библейские данные здесь совпадают с археологией, со свидетельствами об миграции древних обитателей Месопотамии.
 
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-As [John Gruber] writes on the [Markdown site][df1]
+## Время написания рукописей Нового завета
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
+[Ф.Ф.Брюс](https://azbyka.ru/otechnik/konfessii/neosporimye-svidetelstva/1_28#sel=401:7,401:9), «Документы Нового Завета»:
 
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
+Только 9-10 списков "Галльские войны" (58-50 г. до н.э.) хорошего качества, самый ранний написан через 900 лет после смерти Цезаря.
 
-## Tech
+Из 142 книг "Римской истории" Ливия сохранилось лишь 35 в 20 списках, самый ранний из которых написан через 300 лет после смерти Ливия.
 
-Dillinger uses a number of open source projects to work properly:
+Из 14 книг "Истории" Тацита сохранилось 4.5, из 16 книг его "Анналов" - 10 целиком и 2 - частично. И всё это - в 2 списках (через 700 и 900 лет).
 
-- [AngularJS] - HTML enhanced for web apps!
-- [Ace Editor] - awesome web-based text editor
-- [markdown-it] - Markdown parser done right. Fast and easy to extend.
-- [Twitter Bootstrap] - great UI boilerplate for modern web apps
-- [node.js] - evented I/O for the backend
-- [Express] - fast node.js network app framework [@tjholowaychuk]
-- [Gulp] - the streaming build system
-- [Breakdance](https://breakdance.github.io/breakdance/) - HTML
-to Markdown converter
-- [jQuery] - duh
+"История" Фукидида сохранилась в 8 рукописях, самая ранняя написана через 900 лет после его смерти, и нескольких обрывках папируса начала христианской эры. То же справедливо и для "Истории" Геродота.
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
+Как минимум 2 рукописи НЗ были составлены не позднее, чем через 300 лет позднее создания НЗ, некоторые практически полные списки и обширные фрагменты - через 100 лет после написания оригинала.
 
-## Installation
+Автор | Время написания | Датировка древнейшей рукописи | С момента смерти автора до её написания | Число рукописей
+--- | --- | --- | --- | ---
+Цезарь | 100-44 г. до Р.Х. | 900 г. | 1000 лет | 10
+Ливий | 59 г. до Р.Х. | | | 20
+Платон (Тетралоги) | 427-347 г. до Р.Х. | 900 г. | 1200 | 7
+Тацит (Анналы) | 100 г. | 1100 г. | 1000 | <20
+Плиний Младший | 61-113 г. | 850 г. | 750 | 7
+Фукидид ([История](https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_(%D0%A4%D1%83%D0%BA%D0%B8%D0%B4%D0%B8%D0%B4) "Статья в Википедии")) | 460-400 г. до Р.Х. | 900 г. | 1300 | 8 
+Светоний ([Жизнь 12 цезарей](https://ru.wikipedia.org/wiki/%D0%96%D0%B8%D0%B7%D0%BD%D1%8C_%D0%B4%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D0%B8_%D1%86%D0%B5%D0%B7%D0%B0%D1%80%D0%B5%D0%B9 "Статья в Википедии")) | 75-160 г. | 840 г. | 700 | 8 
+Геродот ([История](https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_(%D0%93%D0%B5%D1%80%D0%BE%D0%B4%D0%BE%D1%82) "Статья в Википедии")) | 480-425 г. до Р.Х. | 900 г. | 1300 | 8
+Гораций | | | 900 |
+Софокл | 496-406 г. до Р.Х. | 1000 г. | 1400 | 100
+Лукреций | умер в 55-53 г. до Р.Х. | | 1100 | 2
+Катулл | 54 г. до Р.Х. | 1550 | 1600 | 3
+Еврипид | 480-406 г. до Р.Х. | 1550 г. | 1600 | 3
+Демосфен | 383-322 г. до Р.Х. | 1100 г. | 1400 | 200
+Аристотель | 384-322 г. до Р.Х. | 1100 г. | 1400 | 49
+Аристофан | 450-385 г. до Р.Х. | 900 | 1200 | 10
 
-Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
 
-Install the dependencies and devDependencies and start the server.
+## Количество рукописей Нового Завета:
 
-```sh
-cd dillinger
-npm i
-node app
-```
+В настоящее время есть более 5300 греческих рукописей НЗ + 10000 копий латинской Вульгаты + ещё 9300 других ранних рукописей - всего более 24 000 рукописей. 
 
-For production environments...
+На 2 месте после НЗ по количеству рукописей "Илиада" Гомера - 643 рукописи, самая ранняя из которых - 13 века. 
 
-```sh
-npm install --production
-NODE_ENV=production node app
-```
+[Джон Уорик Монтгомери](https://azbyka.ru/otechnik/konfessii/neosporimye-svidetelstva/1#sel=393:1,393:3):
 
-## Plugins
+«скептицизм по отношению к итоговым текстам Нового Завета означает, что следует отрицать существование всей классической древности от которой до нас не дошло ни одного столь библиографически надёжного документа, как Новый Завет».
 
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
+## Считалось, что письменность во времена Моисея не могла существовать:
 
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+Сторонники, так называемой, «документальной гипотезы» в своё время утверждали, что в период, описываемый в Моисеевых повествованиях (1400 г. до Р.Х., через 1000 лет после царства Эбла), не существовало никакого понятия о письменности. (см. «Новые неоспоримые свидетельства», стр. 63). Находки в Эбле показали, что в тех же местах, где жили Моисей и патриархи, за тысячу лет до них законы, обычаи и события фиксировались в письменном виде.
 
-## Development
+<!--- 
+## Высказывания известных людей 
 
-Want to contribute? Great!
+[Нельсон Глюк](https://azbyka.ru/otechnik/konfessii/neosporimye-svidetelstva/6_2#sel=7:1,7:2), известный еврейский археолог: «Можно категорически утверждать, что ни одно археологическое открытие ещё никогда не противоречило данным Библии».
 
-Dillinger uses Gulp + Webpack for fast developing.
-Make a change in your file and instantaneously see your updates!
+[Уильям Ф.Олбрайт](https://azbyka.ru/otechnik/konfessii/neosporimye-svidetelstva/6_2#sel=8:1,8:3), один из самых знаменитых археологов: «Нет никакого сомнения, что археология продолжает подтверждать практически полное соответствие библейских преданий историческим фактам».
+--->
 
-Open your favorite Terminal and run these commands.
+![](C:\1.png)
 
-First Tab:
-
-```sh
-node app
-```
-
-Second Tab:
-
-```sh
-gulp watch
-```
-
-(optional) Third:
-
-```sh
-karma test
-```
-
-#### Building for source
-
-For production release:
-
-```sh
-gulp build --prod
-```
-
-Generating pre-built zip archives for distribution:
-
-```sh
-gulp build dist --prod
-```
-
-## Docker
-
-Dillinger is very easy to install and deploy in a Docker container.
-
-By default, the Docker will expose port 8080, so change this within the
-Dockerfile if necessary. When ready, simply use the Dockerfile to
-build the image.
-
-```sh
-cd dillinger
-docker build -t <youruser>/dillinger:${package.json.version} .
-```
-
-This will create the dillinger image and pull in the necessary dependencies.
-Be sure to swap out `${package.json.version}` with the actual
-version of Dillinger.
-
-Once done, run the Docker image and map the port to whatever you wish on
-your host. In this example, we simply map port 8000 of the host to
-port 8080 of the Docker (or whatever port was exposed in the Dockerfile):
-
-```sh
-docker run -d -p 8000:8080 --restart=always --cap-add=SYS_ADMIN --name=dillinger <youruser>/dillinger:${package.json.version}
-```
-
-> Note: `--capt-add=SYS-ADMIN` is required for PDF rendering.
-
-Verify the deployment by navigating to your server address in
-your preferred browser.
-
-```sh
-127.0.0.1:8000
-```
-
-## License
-
-MIT
-
-**Free Software, Hell Yeah!**
-
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
-
-   [dill]: <https://github.com/joemccann/dillinger>
-   [git-repo-url]: <https://github.com/joemccann/dillinger.git>
-   [john gruber]: <http://daringfireball.net>
-   [df1]: <http://daringfireball.net/projects/markdown/>
-   [markdown-it]: <https://github.com/markdown-it/markdown-it>
-   [Ace Editor]: <http://ace.ajax.org>
-   [node.js]: <http://nodejs.org>
-   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-   [jQuery]: <http://jquery.com>
-   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
-   [express]: <http://expressjs.com>
-   [AngularJS]: <http://angularjs.org>
-   [Gulp]: <http://gulpjs.com>
-
-   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
-   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
-   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
-   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
-   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
-   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
